@@ -1,0 +1,20 @@
+{
+  "name": "repository_creator",
+  "version": "1.0.0",
+  "description": "Creates GitHub repositories using the GitHub API.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "node appTester.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NYX1122/Repository_Creator.git"
+  },
+  "author": "BoDee Angus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NYX1122/Repository_Creator/issues"
+  },
+  "homepage": "https://github.com/NYX1122/Repository_Creator#readme"
+}
