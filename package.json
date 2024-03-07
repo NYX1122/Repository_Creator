@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/NYX1122/Repository_Creator/issues"
   },
-  "homepage": "https://github.com/NYX1122/Repository_Creator#readme"
+  "homepage": "https://github.com/NYX1122/Repository_Creator#readme",
+  "dependencies": {
+    "repository_cloner": "file:../Repository_Cloner"
+  }
 }
